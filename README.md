@@ -3,6 +3,7 @@ Atliq Hardware BI 360
 
 Project Overview:
 Business Insight 360 is a comprehensive analytics solution built using Power BI. It empowers AtliQ Hardware to make data-driven decisions, optimize processes, and drive growth.
+
 Technical Learnings:
 ➡️Power BI Desktop: Explored custom visuals, slicers, and drill-through actions.
 ➡️Dax Language: Crafted complex calculated columns and measures. 
